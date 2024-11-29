@@ -1,0 +1,2 @@
+# otakus
+site para otakus
